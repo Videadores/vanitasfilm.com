@@ -1,0 +1,84 @@
+
+/*
+	Appters colors:
+	#6f81a9
+	dark: #353f58
+*/
+
+body{
+	color: #353f58;
+}
+
+/*ToDo: Remove this div{border: 1px solid #ccc}*/
+
+.wrapper{
+	width: 960px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+
+p{
+	padding: 5px;
+	margin: 5px 0;
+}
+
+#header{
+	
+}
+	#header .wrapper{
+		
+	}
+#topbar{
+	height: 30px;
+	background-color: #353f58;
+}
+#title{
+	float: left;
+	margin-left: 10px;
+}
+#maintitle{}
+#subtitle{}
+
+#menu{
+	float: right;
+	margin-right: 10px;
+}
+	#menu ul li, #navlinks ul li{
+		display: inline;
+	}
+	#menu ul li a{
+		
+	}
+
+#content{
+	background: #6f81a9;
+}
+
+#content .wrapper{
+}
+
+.module{
+	padding: 10px 0px;
+	margin: 10px 0;
+	background: #ccc;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+
+#footer{
+	height: 30px;
+	background-color: #353f58;
+}
+
+	#footer #navlinks{
+		
+	}
+
+/* Extras */
+
+.left{float: left}
+.right{float: right}
+.c33{width: 315px}
+.c66{width: 630px}
+.c100{width: 950px; margin: 0 auto}
